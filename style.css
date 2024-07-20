@@ -1,0 +1,15 @@
+ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+li {
+    margin: 10px;
+}
+.aside-div {
+    display: flex;
+    flex-direction: column;
+}
+.aside-div a {
+    margin: 15px;
+}
